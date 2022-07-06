@@ -3,10 +3,10 @@
 ## Follow these simple steps to have your own whatsapp clone
 
 #### 1: Clone this repo using this command 
-`git clone https://github.com/alii13/whatsapp-clone.git`
+`git clone https://github.com/Amit-Dey/WhatsAppClone.git`
 
 #### 2: Enter 
-`cd whatsapp-clone`
+`cd WhatsAppClone`
 
 #### 3: Next
 `npm install`
