@@ -1,4 +1,4 @@
-#What's App Clone using Java.
+# What's App Clone using Java.
 
 ## Follow these simple steps to have your own whatsapp clone
 
