@@ -13,11 +13,12 @@
 
 #### 4: Goto `src` & Find file named `firebase.js` => Replace the config data to your project config data.
 
-![](https://i.ibb.co/DLS72Py/final.png)
+![image](https://user-images.githubusercontent.com/64111533/177619460-ca7cbd36-6f70-499a-adba-326366dc751f.png)
+
 Firebase config data you have to replace it with yours & save.
 
 #### 5: Now, Goto `src` directory again and find file named `.firebasesrc`
-![](https://i.ibb.co/zhPvYpc/firebasesrc.png)
+![image](https://user-images.githubusercontent.com/64111533/177619592-e87366e4-e1ee-408f-ba47-75077f180c86.png)
 
 Replace the line `"default": "your_project__name"` & save.
 
